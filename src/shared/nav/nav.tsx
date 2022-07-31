@@ -10,7 +10,6 @@ const Nav: React.FC = (): JSX.Element => (
         Logo
       </Link>
     </section>
-    <title className="title">Soccer</title>
     <section className="profile-link">
       <Link to="/profile">Profile</Link>
     </section>
